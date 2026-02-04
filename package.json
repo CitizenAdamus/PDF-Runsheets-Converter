@@ -1,0 +1,23 @@
+{
+  "name": "pdf-converter-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PDF to CSV converter with a serverless backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'To run locally, use a live server extension in your code editor.'"
+  },
+  "dependencies": {
+    "@google/genai": "^1.28.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/node": "^20.14.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

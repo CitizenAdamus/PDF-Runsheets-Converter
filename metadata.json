@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of PDF Runsheet to CSV Converter-copy2",
+  "description": "An application that automatically converts a PDF transportation runsheet into a specifically formatted CSV file using AI. Users can upload a PDF and download the converted CSV file.",
+  "requestFramePermissions": []
+}
